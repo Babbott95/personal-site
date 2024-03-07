@@ -1,1 +1,47 @@
-portfolio.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Your personal professional brand description goes here.">
+    <title>Your Professional Brand</title>
+    <!-- Add CSS styles for your webpage -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- Add SEO keywords, description, etc. -->
+    <meta name="keywords" content="your, professional, brand, keywords">
+</head>
+<body>
+    <!-- Header section with logo -->
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Your Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Background image section -->
+    <div class="background-image">
+        <!-- Add your background image here -->
+        <img src="background.jpg" alt="Background Image">
+    </div>
+
+    <!-- Main content section -->
+    <main>
+        <!-- Add your content for each page here -->
+        <h1>Welcome to Your Professional Brand</h1>
+        <p>This is your homepage content. You can customize it to introduce yourself and your professional services or skills.</p>
+    </main>
+
+    <!-- Footer section -->
+    <footer>
+        <p>Created by ChatGPT</p>
+    </footer>
+</body>
+</html>
